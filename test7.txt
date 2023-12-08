@@ -1,0 +1,4 @@
+the folder I created in my local system just I pulled to git hub
+commands passed
+   cd ..
+add .
